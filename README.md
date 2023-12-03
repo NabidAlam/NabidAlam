@@ -163,10 +163,54 @@ Microsoft Bangladesh, Dhaka, Bangladesh
 
 ## Research Experience
 
-### An automated face-mask detection system using YOLOv5 for preventing the spread of COVID-19
+# Cited Publications
 
-* International Journal of Computing, 2
-* 
+**Bangla language textual image description by hybrid neural network model**
+
+* Authors: MA Jishan, KR Mahmud, AK Al Azad, MR Ahmmad, BP Rashid, MS Alam
+* Journal: Indonesian Journal of Electrical Engineering and Computer Science
+* Year: 2021
+* Volume: 21
+* Issue: 2
+* Pages: 132-141
+
+**Diabetes mellitus prediction using different ensemble machine learning approaches**
+
+* Authors: MT Islam, M Raihan, N Aktar, MS Alam, RR Ema, T Islam
+* Conference: 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)
+* Year: 2020
+* Pages: 1-6
+
+**Hybrid deep neural network for Bangla automated image descriptor**
+
+* Authors: MA Jishan, KR Mahmud, AK Al Azad, MS Alam, AM Khan
+* Journal: International Journal of Advances in Intelligent Informatics
+* Year: 2020
+* Volume: 6
+* Issue: 2
+* Pages: 109-122
+
+**A cluster-based hybrid framework for Network Intrusion Detection**
+
+* Authors: N Mojumder, M Shahabub, M Afsana, M Mehedi, S Shabanam
+* Journal: International Journal of Computer Applications
+* Year: 2017
+* Volume: 172
+* Issue: 1
+* Pages: 23-29
+
+**An Automated Face-mask Detection System using YOLOv5 for Preventing Spread of COVID-19**
+
+* Authors: MDA JISHAN, MDS ALAM, IR MAZUMDER, KR MAHMUD, AK AL AZAD
+* Conference: 2023 International Conference on Intelligent Computing and Communication (ICICC)
+* Year: 2023
+
+**Characterization and recognition of handwritten digits using Julia**
+
+* Authors: MA Jishan, MS Alam, A Islam, IR Mazumder, KR Mahmud, AK Al Azad
+* Preprint: arXiv preprint arXiv:2102.11994
+* Year: 2021
+
 
 
 
