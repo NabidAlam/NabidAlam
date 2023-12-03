@@ -1,13 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
-
-<h1 align="center">Hi, I'm Md Shahabub Alam</h1>
-
-<div>
-  <center>
-    <p align="center">
+<div style="display: flex;">
+  <img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1" style="margin-right: 20px;">
+  <div>
+    <h1>Hi, I'm Md Shahabub Alam</h1>
+    <p style="padding-top: 10px;">
       A versatile Data Scientist with a passion for uncovering insights from complex data through advanced analytics and machine learning techniques. Possess a strong academic background and practical experience in applying data-driven solutions to real-world problems. Proficient in various programming languages, machine learning tools, and data analysis tools, enabling the handling of diverse datasets and extracting meaningful information. Familiar with Agile methodologies and have a keen interest in staying up-to-date with the latest advancements in the field of data science. With strong analytical skills, problem-solving abilities, and collaborative spirit, a valuable asset to any team seeking to leverage the power of data.
     </p>
-  </center>
+  </div>
 </div>
 
 
