@@ -12,6 +12,10 @@
 <a href="https://linkedin.com/in/msanabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msanabid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nabidalam360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nabidalam360" height="30" width="40" /></a>
 
+
+<a href="https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/social/google-scholar.svg" alt="Google Scholar" height="30" width="30"></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
