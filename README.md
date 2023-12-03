@@ -1,7 +1,7 @@
 # portfolio-datascience-msa
 
 
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
+<img align="right" alt="Coding" width="1920" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
 
 
 # MD Shahabid Alam
