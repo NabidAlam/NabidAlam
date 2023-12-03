@@ -10,6 +10,11 @@
   </center>
 </div>
 
+p {
+  width: 100%;
+  margin-right: 0;
+}
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabidAlam](https://github.com/NabidAlam)
 
