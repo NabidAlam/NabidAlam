@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/msanabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msanabid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/nabidalam360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nabidalam360" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -162,8 +163,6 @@ Microsoft Bangladesh, Dhaka, Bangladesh
 * ML predicts bank deposit subscriptions with 89.06% accuracy in Python.
 
 ## Research Experience
-
-# Cited Publications
 
 **Bangla language textual image description by hybrid neural network model**
 
