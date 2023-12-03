@@ -28,6 +28,12 @@ Universität Potsdam, Potsdam, Germany
 
 10/2023 - Present
 
+### M.Sc. (Data Science)
+
+TU Dortmund University, Dortmund, Germany
+
+04/2020 - 09/2023
+
 ### B.Sc. (Computer Science & Engineering)
 
 Ahsanulllah University of Science & Technology, Dhaka, Bangladesh
