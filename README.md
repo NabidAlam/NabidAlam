@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Md Shahabub Alam</h1>
 
 <div style="display: flex; justify-content: space-between;">
-<p>A versatile Data Scientist with a passion for uncovering insights from complex data through advanced analytics and machine learning techniques. Possess a strong academic background and practical experience in applying data-driven solutions to real-world problems. Proficient in various programming languages, machine learning tools, and data analysis tools, enabling the handling of diverse data sets and extracting meaningful information. Familiar with Agile methodologies and have a keen interest in staying up-to-date with the latest advancements in the field of data science. With strong analytical skills, problem-solving abilities, and collaborative spirit, a valuable asset to any team seeking to leverage the power of data.</p>
+<p align='center'>A versatile Data Scientist with a passion for uncovering insights from complex data through advanced analytics and machine learning techniques. Possess a strong academic background and practical experience in applying data-driven solutions to real-world problems. Proficient in various programming languages, machine learning tools, and data analysis tools, enabling the handling of diverse data sets and extracting meaningful information. Familiar with Agile methodologies and have a keen interest in staying up-to-date with the latest advancements in the field of data science. With strong analytical skills, problem-solving abilities, and collaborative spirit, a valuable asset to any team seeking to leverage the power of data.</p>
 </div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabidAlam](https://github.com/NabidAlam)
