@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
 
-<h1 align="center">Hi, I'm Md Shahabub Alam, you can also call me Nabid </h1>
+<h1 align="center">Hi, I'm Md Shahabub Alam</h1>
 <p align="left">Versatile Data Scientist adept at uncovering insights from intricate data through advanced analytics and machine learning. Demonstrated success in steering data-driven decisions. Eager to contribute valuable solutions to dynamic teams. Currently seeking a working student position or internship to further apply and enhance my skills.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabidAlam](https://github.com/NabidAlam)
