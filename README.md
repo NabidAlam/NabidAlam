@@ -4,7 +4,7 @@
 
 ## Data Scientist
 
-[LinkedIn](linkedin.com/in/msanabid) | [Personal Website](nabidalam.github.io)
+[LinkedIn](https://www.linkedin.com/in/msanabid/) | [Personal Website](nabidalam.github.io)
 
 ## Contact
 
