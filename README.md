@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
 
 <h1 align="center">Hi, I'm Md Shahabub Alam</h1>
-<p align="left">Versatile Data Scientist adept at uncovering insights from intricate data through advanced analytics and machine learning. Demonstrated success in steering data-driven decisions. Eager to contribute valuable solutions to dynamic teams. Currently seeking a working student position or internship to further apply and enhance my skills.</p>
+<p align="left">A versatile Data Scientist with a passion for uncovering insights from complex data through advanced analytics and machine learning techniques. Possess a strong academic background and practical experience in applying data-driven solutions to real-world problems. Proficient in various programming languages, machine learning tools, and data analysis tools, enabling the handling of diverse data sets and extracting meaningful information. Familiar with Agile methodologies and have a keen interest in staying up-to-date with the latest advancements in the field of data science. With strong analytical skills, problem-solving abilities, and collaborative spirit, a valuable asset to any team seeking to leverage the power of data.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabidAlam](https://github.com/NabidAlam)
 
