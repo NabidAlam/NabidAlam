@@ -1,7 +1,7 @@
 # portfolio-datascience-msa
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://vsgif.com/gif/2915832](https://aditya-bhattacharya.net/2021/09/18/daily-dose-of-data-science-day-5-attractive-data-visualizations-in-python-using-matplotlib-styles-and-plotly/">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://vsgif.com/gif/2915832](https://aditya-bhattacharya.net/2021/09/18/daily-dose-of-data-science-day-5-attractive-data-visualizations-in-python-using-matplotlib-styles-and-plotly/](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1">
 
 
 # MD Shahabid Alam
