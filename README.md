@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NabidAlam](https://github.com/NabidAlam)
 
-- 📫 How to reach me **nabid.aust37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
