@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <img align="right" alt="Coding" width="150" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1" style="margin-right: 20px;">
+  <img align="right" alt="Coding" width="200" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1" style="margin-right: 20px;">
   <div>
     <h1>Hi, I'm Md Shahabub Alam</h1>
     <p style="padding-top: 10px;">
