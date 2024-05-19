@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/NabidAlam?logo=github&style=for-the
 
 <a href="https://github.com/NabidAlam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
+<!--
 ## Education
 
 ### M.Sc. (Data Science)
@@ -241,7 +241,7 @@ Microsoft Bangladesh, Dhaka, Bangladesh
 * Preprint: arXiv preprint arXiv:2102.11994
 * Year: 2021
 
-
+-->
 
 
 
