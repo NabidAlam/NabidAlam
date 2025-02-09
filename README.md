@@ -3,7 +3,7 @@
   <div>
     <h1>Hi, I'm Md Shahabub Alam</h1>
     <p style="padding-top: 10px;">
-      Data Scientist by day, data detective by night—turning messy data into golden insights! Skilled in machine learning, analytics, and making sense of chaos. Love solving real-world puzzles with data-driven solutions. Fluent in Python, SQL and coffee. Always learning, always optimizing because models and caffeine should never be static!
+      Data Scientist by day, data detective by night—turning complex data into powerful insights! 🚀 Skilled in machine learning, analytics, and making sense of chaos to drive real-world impact. Passionate about solving problems with data-driven solutions and always staying ahead of the curve. Proficient in Python, SQL, and a daily dose of coffee. Fast learner, team player, and always optimizing—because both models and careers should never be static! Ready to bring data-driven value to your team. Let’s connect!
     </p>
   </div>
 </div>
