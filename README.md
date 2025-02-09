@@ -3,7 +3,7 @@
   <div>
     <h1>Hi, I'm Md Shahabub Alam</h1>
     <p style="padding-top: 10px;">
-      A versatile Data Scientist with a passion for uncovering insights from complex data through advanced analytics and machine learning techniques. Possess a strong academic background and practical experience in applying data-driven solutions to real-world problems. Proficient in various programming languages, machine learning tools, and data analysis tools, enabling the handling of diverse datasets and extracting meaningful information. Familiar with Agile methodologies and have a keen interest in staying up-to-date with the latest advancements in the field of data science. With strong analytical skills, problem-solving abilities, and collaborative spirit, a valuable asset to any team seeking to leverage the power of data.
+      Data Scientist by day, data detective by night—turning messy data into golden insights! Skilled in machine learning, analytics, and making sense of chaos. Love solving real-world puzzles with data-driven solutions. Fluent in Python, SQL and coffee. Always learning, always optimizing because models and caffeine should never be static!
     </p>
   </div>
 </div>
