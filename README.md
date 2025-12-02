@@ -1,6 +1,4 @@
-
 <div style="display: flex;">
-  <img align="right" alt="Coding" width="200" src="https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day5.gif?fit=800%2C600&ssl=1" style="margin-right: 20px;">
 
   <iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
 <style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
