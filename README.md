@@ -6,6 +6,8 @@
 
 *Turning complex data into powerful insights and driving real-world impact through data-driven solutions*
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer;Problem+Solver;Turning+Data+Into+Insights&center=true&vCenter=true&color=0891b2&size=25)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msanabid)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nabidalam360)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en)
@@ -19,7 +21,13 @@
 
 <div align="left">
 
-Data Scientist by day, data detective by night! I specialize in transforming complex data into actionable insights that drive real-world impact. With expertise in machine learning, analytics, and statistical modeling, I'm passionate about solving challenging problems with data-driven solutions.
+Data Scientist by day, data detective by night! 🔍 I specialize in transforming complex data into actionable insights that drive real-world impact. With expertise in machine learning, analytics, and statistical modeling, I'm passionate about solving challenging problems with data-driven solutions.
+
+<div align="center">
+
+![Data Science](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 **What I bring to the table:**
 - 🧠 Strong foundation in machine learning and statistical methods
@@ -84,7 +92,9 @@ Data Scientist by day, data detective by night! I specialize in transforming com
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
 
 <b>My GitHub Stats</b>
 
@@ -92,7 +102,38 @@ Data Scientist by day, data detective by night! I specialize in transforming com
 
 <a href="http://www.github.com/NabidAlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/NabidAlam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/NabidAlam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
+
+</div>
+
+---
+
+## 🎯 Data Science in Action
+
+<div align="center">
+
+```python
+# Turning data into insights, one algorithm at a time
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+
+def solve_problem(data):
+    insights = analyze(data)
+    model = train_model(insights)
+    return deploy_solution(model)
+
+# Currently working on: Advanced ML models & Deep Learning
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Active)
+![Machine Learning](https://img.shields.io/badge/ML-Active-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
