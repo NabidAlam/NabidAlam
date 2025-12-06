@@ -104,9 +104,6 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 ### 🔥 Contribution Streak
 <a href="http://www.github.com/NabidAlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=NabidAlam&theme=react&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
 </div>
 
 ---
