@@ -100,9 +100,10 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ---
 
+<div align="center">
+
 ## 🎯 Data Science in Action
 
-<div align="center">
 
 ```python
 # Turning data into insights, one algorithm at a time
