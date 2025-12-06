@@ -1,376 +1,121 @@
-<div style="display: flex;">
-  <div>
-    <h1>Hi, I'm Shahabub Alam</h1>
-    <p style="padding-top: 10px;">
-      Data Scientist by day, data detective by night, turning complex data into powerful insights! Skilled in machine learning, analytics, and making sense of chaos to drive real-world impact. Passionate about solving problems with data-driven solutions and always staying ahead of the curve. Proficient in Python, SQL, and a daily dose of coffee. Fast learner, team player, and always optimizing—because both models and careers should never be static! Ready to bring data-driven value to your team. Let’s connect!
-    </p>
-  </div>
+<div align="center">
+
+# Hi, I'm Shahabub Alam 👋
+
+### Data Scientist | Machine Learning Engineer | Problem Solver
+
+*Turning complex data into powerful insights and driving real-world impact through data-driven solutions*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msanabid)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nabidalam360)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/NabidAlam)
+
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/msanabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msanabid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nabidalam360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nabidalam360" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" height="30" width="40"></a>
+---
 
+## 👨‍💻 About Me
 
-</p>
+<div align="left">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+Data Scientist by day, data detective by night! I specialize in transforming complex data into actionable insights that drive real-world impact. With expertise in machine learning, analytics, and statistical modeling, I'm passionate about solving challenging problems with data-driven solutions.
 
+**What I bring to the table:**
+- 🧠 Strong foundation in machine learning and statistical methods
+- 💻 Proficient in Python, SQL, and modern data science tools
+- 📊 Experience in end-to-end data science projects
+- 🤝 Collaborative team player with excellent communication skills
+- 🚀 Fast learner, always staying ahead of the curve
+- ☕ Powered by coffee and curiosity!
 
+*Ready to bring data-driven value to your team. Let's connect!*
 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
+</div>
 
- 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-  </a>
-
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-
-
- 
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-  </a>
-
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-
-</p>
-
-
-<a href="https://www.github.com/NabidAlam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/NabidAlam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/NabidAlam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NabidAlam"><img src="https://github-readme-stats.vercel.app/api?username=NabidAlam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NabidAlam's GitHub stats" /></a>
-
-<a href="http://www.github.com/NabidAlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/NabidAlam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!--
-## Education
-
-### M.Sc. (Data Science)
-
-Universität Potsdam, Potsdam, Germany
-
-10/2023 - Present
-
-### M.Sc. (Data Science)
-
-TU Dortmund University, Dortmund, Germany
-
-04/2020 - 09/2023
-
-### B.Sc. (Computer Science & Engineering)
-
-Ahsanulllah University of Science & Technology, Dhaka, Bangladesh
-
-04/2013 - 06/2017
-
-## Work Experience
-
-### Student Assistant
-
-Universitätsklinikum Essen (Institut für Medizinische Informatik, Biometrie und Epidemiologie), Essen, Germany
-
-01/2023 - 06/2023
-
-* Leveraged Python NLP to efficiently extract references from clinical guidelines, reducing manual data processing time by 15% across two PhD projects.
-* Analyzed data and employed regular expressions to extract statistical measures from scientific literature.
-* Collaborated across diverse teams of computer scientists, psychologists, and medical professionals.
-* Demonstrated Python proficiency, adept project management, and adaptability to challenges.
-
-### Software Engineer
-
-Islam Garments Limited, Dhaka, Bangladesh
-
-11/2018 - 09/2020
-
-* Developed ERP modules using ASP.NET MVC, C#, and SQL, automating HR, purchasing, and production, increasing efficiency by 30%.
-* Used C#, ReactJS, and ASP.NET for full-stack development, emphasizing robust security measures.
-* Gathered customer requirements, reducing development time by 25% and enhancing client satisfaction.
-
-### Programmer
-
-Convince Computer Limited, Dhaka, Bangladesh
-
-07/2017 - 10/2018
-
-* Built five secure and interoperable data analysis web apps for diverse clients.
-* Crafted design specifications, adhering to best practices and coding standards, resulting in a 20% reduction in defects and enhanced code quality.
-
-### Microsoft Service Engineer
-
-Microsoft Bangladesh, Dhaka, Bangladesh
-
-10/2015 - 04/2016
-
-* Evaluated trainees' problem-solving skills and their ability to troubleshoot common technical issues.
-* Assessed trainees' ability to work collaboratively on a practical project using Microsoft tools and technologies.
-
-## Skills
-
-### Statistical Methods
-
-* Probability and Decision theory
-* Hypothesis testing
-* Significance tests and other statistical concepts
-
-### Machine Learning Concepts
-
-* Supervised learning (Classification & Regression)
-* Clustering
-* Dimensionality reduction
-* Anomaly detection
-* Artificial Neural Networks (ANNs)
-
-### Machine Learning Tools
-
-* Scikit-learn
-* PyTorch
-* MLFlow
-* Scala
-
-### Data Analysis Tools
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Tableau
-
-### Data Processing
-
-* Data exploration, preparation, and cleaning
-* Git
-* ETL (Extract, Transform, Load)
+## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-* Python
-* R
-* C#
+### Machine Learning & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Database
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-* SQL
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Frontend Technologies
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-* HTML
-* CSS
-* jQuery
-* JavaScript
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Agile Methodologies
+### Big Data & Tools
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-* Familiar with Agile methodologies such as Scrum and Kanban
+---
 
-### Languages
+## 📊 GitHub Stats
 
-* English (C1)
-* German (B1)
-* Bengali (C2)
-* Hindi (B2)
+<div align="center">
 
-## Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabidAlam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
-### Demographic data analysis from IDB of U.S. Census Bureau
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-* Explored life expectancy and under-age 5 mortality trends worldwide using R.
-* Compared maternal smoking and birth weight distributions.
-* Examined maternal smoking's impact on newborns' weight using R stats.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
-### Regression analysis on Seoul bike sharing demand dataset
+</div>
 
-* Analyzed bike rentals in R with regression and multi-variable model selection.
+---
 
-### Predicted employee attrition using Kaggle dataset
+## 🔗 Connect With Me
 
-* Compared Decision Tree, Random Forest, and XGBoost algorithms in Python.
+<div align="center">
 
-### Predicted airline customer satisfaction using Kaggle dataset
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/msanabid)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nabidalam360)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/NabidAlam)
 
-* Analyzing airline customer satisfaction, building predictive ML models.
+</div>
 
-### Predicted bank term deposit subscriptions with ML
+---
 
-* ML predicts bank deposit subscriptions with 89.06% accuracy in Python.
+<div align="center">
 
-## Research Experience
+**⭐ If you find my work interesting, feel free to star my repositories! ⭐**
 
-**Bangla language textual image description by hybrid neural network model**
+*Thanks for visiting! Have a great day! 😊*
 
-* Authors: MA Jishan, KR Mahmud, AK Al Azad, MR Ahmmad, BP Rashid, MS Alam
-* Journal: Indonesian Journal of Electrical Engineering and Computer Science
-* Year: 2021
-* Volume: 21
-* Issue: 2
-* Pages: 132-141
-
-**Diabetes mellitus prediction using different ensemble machine learning approaches**
-
-* Authors: MT Islam, M Raihan, N Aktar, MS Alam, RR Ema, T Islam
-* Conference: 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT)
-* Year: 2020
-* Pages: 1-6
-
-**Hybrid deep neural network for Bangla automated image descriptor**
-
-* Authors: MA Jishan, KR Mahmud, AK Al Azad, MS Alam, AM Khan
-* Journal: International Journal of Advances in Intelligent Informatics
-* Year: 2020
-* Volume: 6
-* Issue: 2
-* Pages: 109-122
-
-**A cluster-based hybrid framework for Network Intrusion Detection**
-
-* Authors: N Mojumder, M Shahabub, M Afsana, M Mehedi, S Shabanam
-* Journal: International Journal of Computer Applications
-* Year: 2017
-* Volume: 172
-* Issue: 1
-* Pages: 23-29
-
-**An Automated Face-mask Detection System using YOLOv5 for Preventing Spread of COVID-19**
-
-* Authors: MDA JISHAN, MDS ALAM, IR MAZUMDER, KR MAHMUD, AK AL AZAD
-* Conference: 2023 International Conference on Intelligent Computing and Communication (ICICC)
-* Year: 2023
-
-**Characterization and recognition of handwritten digits using Julia**
-
-* Authors: MA Jishan, MS Alam, A Islam, IR Mazumder, KR Mahmud, AK Al Azad
-* Preprint: arXiv preprint arXiv:2102.11994
-* Year: 2021
-
--->
-
-
+</div>
 
