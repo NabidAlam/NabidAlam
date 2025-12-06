@@ -110,8 +110,8 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 <div align="center">
 
-## 🎯 Data Science in Action
 
+## 🎯 Data Science in Action
 
 ```python
 # Turning data into insights, one algorithm at a time
@@ -125,6 +125,7 @@ def solve_problem(data):
     return deploy_solution(model)
 
 # Currently working on: Advanced ML models & Deep Learning
+
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Active)
