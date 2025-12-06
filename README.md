@@ -111,39 +111,6 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ---
 
-## ⚡ Fun Facts & Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🎯 Quick Stats
-- 🚀 **Projects Completed**: 50+
-- 📊 **Models Deployed**: 20+
-- 💡 **Ideas Implemented**: 100+
-- ☕ **Coffee Consumed**: ∞
-- 🎓 **Always Learning**: Yes!
-
-</td>
-<td valign="top" width="50%">
-
-### 🎨 What I Do
-- 🔬 Research & Experimentation
-- 🤖 Build ML Models
-- 📈 Create Data Visualizations
-- 🚀 Deploy Solutions
-- 📝 Share Knowledge
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🎯 Data Science in Action
