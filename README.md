@@ -98,12 +98,6 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 <div align="center">
 
-### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabidAlam&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&count_private=true&include_all_commits=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&langs_count=8)
-
 ### 📈 Contribution Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
 
