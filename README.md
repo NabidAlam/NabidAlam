@@ -111,21 +111,6 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ---
 
-## 🎓 Currently Learning
-
-<div align="left">
-
-- 🔬 **Advanced Machine Learning**: Deep diving into transformer architectures and LLMs
-- ☁️ **Cloud Architecture**: Mastering AWS and GCP for scalable ML deployments
-- 🚀 **MLOps**: Building end-to-end ML pipelines with CI/CD
-- 📊 **Advanced Analytics**: Real-time data processing and streaming analytics
-
-*Always expanding my skill set to stay at the forefront of data science innovation!*
-
-</div>
-
----
-
 ## ⚡ Fun Facts & Stats
 
 <div align="center">
