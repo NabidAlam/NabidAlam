@@ -23,12 +23,6 @@
 
 Data Scientist by day, data detective by night! 🔍 I specialize in transforming complex data into actionable insights that drive real-world impact. With expertise in machine learning, analytics, and statistical modeling, I'm passionate about solving challenging problems with data-driven solutions.
 
-<div align="center">
-
-![Data Science](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
 **What I bring to the table:**
 - 🧠 Strong foundation in machine learning and statistical methods
 - 💻 Proficient in Python, SQL, and modern data science tools
@@ -92,20 +86,15 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ---
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NabidAlam"><img src="https://github-readme-stats.vercel.app/api?username=NabidAlam&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="NabidAlam's GitHub stats" /></a>
-
-<a href="http://www.github.com/NabidAlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/NabidAlam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-### 📈 Activity Graph
+### 📈 Contribution Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
+
+### 🔥 Contribution Streak
+<a href="http://www.github.com/NabidAlam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NabidAlam&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>
 
