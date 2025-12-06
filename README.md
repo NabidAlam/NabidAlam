@@ -25,53 +25,6 @@
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil%20-%20but%20insights%20are%20the%20refined%20fuel%20that%20drives%20innovation&author=Shahabub%20Alam)
-
-</div>
-
----
-
-## 🔥 What I'm Working On
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🚀 Active Projects
-- 🤖 ML Model Deployment
-- 📊 Data Pipeline Optimization
-- 🔬 Research & Experimentation
-
-</td>
-<td valign="top" width="33%">
-
-### 🎯 Current Focus
-- 🧠 Deep Learning Models
-- ☁️ Cloud ML Infrastructure
-- 📈 Real-time Analytics
-
-</td>
-<td valign="top" width="33%">
-
-### 💡 Next Up
-- 🌐 MLOps Automation
-- 🔍 Advanced NLP
-- 📱 Mobile ML Apps
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <div align="left">
@@ -159,9 +112,6 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=NabidAlam&theme=react&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
-
-### 🎮 Contribution Snake Game
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -281,30 +231,6 @@ def solve_problem(data):
 
 ---
 
----
-
-## 🎨 ASCII Art Footer
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  █████╗ ████████╗ █████╗     ███████╗██╗          ║
-║   ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██║          ║
-║   ██║  ██║███████║   ██║   ███████║    ███████╗██║          ║
-║   ██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║          ║
-║   ██████╔╝██║  ██║   ██║   ██║  ██║    ███████║███████╗     ║
-║   ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝╚══════╝     ║
-║                                                               ║
-║        Turning Data Into Actionable Insights                 ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <div align="center">
 
@@ -315,18 +241,6 @@ def solve_problem(data):
 **🤝 Open to collaboration on interesting data science projects!**
 
 ### 🌟 "In data we trust, but we always verify!"
-
----
-
-## 🎬 Watch My Contributions Get Eaten by a Snake! 🐍
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-*This snake automatically updates daily based on my GitHub contributions!*
-
-</div>
 
 </div>
 
