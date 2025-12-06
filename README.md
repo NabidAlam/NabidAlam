@@ -98,6 +98,12 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 <div align="center">
 
+### 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NabidAlam&show_icons=true&theme=react&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff&count_private=true&include_all_commits=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NabidAlam&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff&langs_count=8)
+
 ### 📈 Contribution Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NabidAlam&theme=react-dark&hide_border=true&area=true&color=0891b2&line=0891b2&point=ffffff)
 
@@ -194,24 +200,20 @@ def solve_problem(data):
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/nabidalam360)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-8788qEAAAAAyP4o1y4&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/NabidAlam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 📄 Resume & Portfolio
+## 💼 Professional Opportunities
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_View_Resume-0891b2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+*💡 Open to opportunities in Data Science, ML Engineering, and Analytics*
 
-*💡 Looking for opportunities in Data Science, ML Engineering, and Analytics*
+*Feel free to reach out via LinkedIn for collaboration or career opportunities!*
 
 </div>
-
----
 
 ---
 
@@ -224,7 +226,6 @@ def solve_problem(data):
 </div>
 
 ---
-
 
 <div align="center">
 
