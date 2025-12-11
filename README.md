@@ -108,7 +108,7 @@ Data Scientist by day, data detective by night! 🔍 I specialize in transformin
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 
 ## 🎯 Data Science in Action
@@ -131,7 +131,7 @@ def solve_problem(data):
 ![Machine Learning](https://img.shields.io/badge/ML-Active-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</div>
+</div> -->
 
 ---
 
@@ -170,7 +170,7 @@ def solve_problem(data):
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 **⭐ If you find my work interesting, feel free to star my repositories! ⭐**
 
@@ -180,5 +180,5 @@ def solve_problem(data):
 
 ### 🌟 "In data we trust, but we always verify!"
 
-</div>
+</div> -->
 
